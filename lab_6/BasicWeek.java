@@ -7,12 +7,12 @@ public class BasicWeek {
      */
 
 	
-	String day_2 = "Tuesday";
-	String day_3 = "Wednesday";
-	String day_4 = "Thursday";
-	String day_5 = "Friday";
-	String day_6 = "Saturday";
-	String day_7 = "Sunday";
+	private String day_2 = "Tuesday";
+	private String day_3 = "Wednesday";
+	private String day_4 = "Thursday";
+	private String day_5 = "Friday";
+	private String day_6 = "Saturday";
+	 private String day_7 = "Sunday";
 	
 
     // printing out the days

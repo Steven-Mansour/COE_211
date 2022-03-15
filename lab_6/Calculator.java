@@ -24,16 +24,20 @@ public class Calculator {
         
 	switch(operator){
 	case "+":
-		add(num1, num2);
+		
+		System.out.println(add(num1, num2));
 		break;
 	case "-":
-		subtract(num1, num2);
+		
+		System.out.println(subtract(num1, num2));
 		break;
 	case "*":
-		multiply(num1, num2);
+		
+		System.out.println(multiply(num1, num2));
 		break;
 	case "/":
-		divide(num1, num2);
+		
+		System.out.println(divide(num1, num2));
 		break;
 	default: 
 		break;
